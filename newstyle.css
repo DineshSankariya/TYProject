@@ -1,0 +1,37 @@
+form{
+	 width: 400px;
+ 	 padding: 50px;
+ 	 padding-right:10px;
+ 	 margin: 80px;
+ 	 background-color: silver; 
+ 	 margin-left: 450px;
+ 	 background: rgba(255,255,255,.2);
+	box-shadow: 0 5px 15px rgba(0,0,0,.2);
+	font: bold 20px small;
+
+}
+
+form input{
+
+	height: 30px;
+	width: 80%;
+}
+
+.do{
+	
+	background-size: cover;
+	height: 100vh;
+	background-repeat: no-repeat;
+}
+
+.fo{
+	width:50%;
+	height:55px;
+	padding:10px;
+	font:bold 25px medium;
+	border-bottom: 5px groove black;
+	border-left: 5px groove black;
+	background: rgba(255,255,255,.2);
+	margin-left:50px; 
+}
+

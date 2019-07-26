@@ -1,0 +1,22 @@
+.apply{
+	
+	color: black;
+	text-align: center;
+	padding:50px;
+	margin-top:200px;
+	margin-left: 350px;
+	line-height: 500px;
+	font-size: xx-large;
+	
+	
+}
+
+
+form{
+	 width: 300px;
+ 	border: 15px solid green;
+ 	 padding: 50px;
+ 	 margin: 200px;
+ 	 background-color: silver; 
+}
+
